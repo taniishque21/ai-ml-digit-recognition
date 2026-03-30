@@ -1,4 +1,4 @@
-# ai-ml-digit-recognition
+# AI-ML-digit-recognition
 
 This project uses a Neural Network to recognize handwritten digits (0–9) using the MNIST dataset.
 
